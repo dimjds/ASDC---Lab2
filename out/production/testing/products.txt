@@ -1,0 +1,50 @@
+1,T-shirt,19.99,Nike,10
+2,Jeans,59.99,Levi's,7
+3,Running Shoes,89.99,Adidas,15
+4,Hoodie,49.99,Under Armour,12
+5,Sneakers,69.99,Nike,8
+6,Socks,9.99,Adidas,50
+7,Baseball Cap,19.99,New Era,20
+8,Skateboard,129.99,Vans,3
+9,Backpack,39.99,Jansport,6
+10,Water Bottle,12.99,Hydro Flask,25
+11,Yoga Mat,29.99,Lululemon,9
+12,Sweatpants,39.99,Champion,5
+13,Shorts,29.99,Reebok,10
+14,Swimsuit,49.99,Speedo,4
+15,Gym Bag,24.99,Under Armour,14
+16,Basketball,29.99,Spalding,8
+17,Headphones,99.99,Beats by Dre,2
+18,Sunglasses,79.99,Ray-Ban,6
+19,Tennis Racquet,149.99,Babolat,3
+20,Running Jacket,79.99,Asics,7
+21,Fitness Tracker,149.99,Fitbit,5
+22,Smartwatch,399.99,Apple,2
+23,Weighted Vest,79.99,Gold's Gym,4
+24,Cycling Shoes,149.99,Shimano,5
+25,Resistance Bands,19.99,TheraBand,15
+26,Foam Roller,29.99,TriggerPoint,8
+27,Jump Rope,14.99,Rogue,12
+28,Dumbbells,59.99,Bowflex,6
+29,Kettlebell,39.99,PowerBlock,4
+30,Medicine Ball,34.99,SKLZ,7
+31,Protein Powder,49.99,Optimum Nutrition,9
+32,Energy Bars,2.99,Clif Bar,20
+33,Pre-Workout Supplement,39.99,Cellucor,5
+34,Creatine,29.99,MusclePharm,10
+35,BCAA Powder,24.99,Scivation,8
+36,Resistance Machine,599.99,Bowflex,1
+37,Yoga Block,14.99,Gaiam,12
+38,Weight Bench,149.99,Gold's Gym,3
+39,Inversion Table,199.99,Teeter,2
+40,Ab Roller,19.99,Perfect Fitness,7
+41,Push-Up Bars,14.99,Harbinger,10
+42,Rowing Machine,699.99,Concept2,1
+43,Stationary Bike,399.99,Schwinn,4
+44,Treadmill,999.99,NordicTrack,2
+45,Adjustable Dumbbells,399.99,Bowflex,2
+46,Squat Rack,299.99,Titan Fitness,3
+47,Weighted Vest,129.99,Hyperwear,5
+48,Resistance Bands Set,59.99,Black Mountain,9
+49,Massage Gun,199.99,Theragun,6
+50,AirMonach,38.99,Nike,2
